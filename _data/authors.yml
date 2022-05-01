@@ -14,6 +14,7 @@ author1:
     |
     
     especialidad
+    
     |
 
     hacer lo que me apasiona
@@ -78,7 +79,7 @@ author2:
   name:              <firtname> <lastname>
   email:             <mail@domain.tld>
   about:             |
-    para editar ->
+    para editar 
 
     Open `_data/authors.yml` to edit this text.
   picture:           https://placehold.it/128x128
