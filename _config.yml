@@ -47,8 +47,8 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Proyectos
-    url:               /project/
+#  - title:             Proyectos
+#    url:               /project/
 #  - title:             Sobre mi
 #    url:               /about/
 # Add links to the footer.
