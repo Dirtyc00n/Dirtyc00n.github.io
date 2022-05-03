@@ -1,6 +1,6 @@
 # Diego Libiot
 
-<span style="color:blue">**<a href="mailto:diegolibiot@gmail.com">diegolibiot@gmail.com</a>
+<span style="color:blue">**<a href="mailto:.">.</a>
 |
 <a href="https://github.com/Dirtyc00n" target="_blank">GitHub</a>
 |
@@ -10,7 +10,7 @@
 
 ##**Formacion**
 
-:> Tecnico analista programador especializado en desarrollo android y desarrollo web, actualmente estudiando para especializarme en ciberseguridad ofensiva.
+:>Tecnico analista programador especializado en desarrollo android y desarrollo web, actualmente estudiando para especializarme en ciberseguridad ofensiva.
           
 
           
