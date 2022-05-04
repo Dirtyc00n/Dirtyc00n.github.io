@@ -8,7 +8,7 @@
 
 
 
-##**Formacion**
+## **Formacion**
 
 :>Tecnico analista programador especializado en desarrollo android y desarrollo web, actualmente estudiando para especializarme en ciberseguridad ofensiva.
           
