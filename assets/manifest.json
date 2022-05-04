@@ -8,7 +8,7 @@
   "description": "{{ site.description | markdownify | strip_html | strip_newlines }}",
   "start_url": "{{ '/' | relative_url }}?utm_source=homescreen",
   "theme_color": "{{ site.theme_color | default:site.accent_color | default:'#102a3b' }}",
-  "background_color": "{{ site.background_color | default:'#fff' }}",
+  "background_color": "{{ site.background_color | default:'#c3ebff' }}",
   "orientation": "portrait",
   "display": "standalone",
   "icons": [
