@@ -8,15 +8,15 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Programador entuasiasta de la tecnologia camino a la ciber seguridad.
+    En esta web podra ver algunos de mis proyectos relacionados con desarrollo android,
+    desarrollo web y hacking ofensivo. tambien contara con la sección noticias donde publicare 
+    las noticias mas conotadas de la semana relacionadas con hacking y en la seccion 
+    Hurgar encontrara investigaciones, testeos, tips, recopilaciones y mucho mas.
 
     |
     
-    especialidad
+    Especialidad : hacer lo que me apasiona
     
-    |
-
-    hacer lo que me apasiona
 
     <p align="center"> 
     <img src="/assets/img/dog.png">
