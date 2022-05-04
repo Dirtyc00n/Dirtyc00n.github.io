@@ -47,10 +47,12 @@ author:
 
 # Add links to the sidebar.
 menu:
-#  - title:             Proyectos
-#    url:               /project/
-#  - title:             Sobre mi
-#    url:               /about/
+  - title:             Proyectos
+    url:               /projects
+  - title:             Noticias
+    url:               /projects/
+  - title:             Hurgar
+    url:               /about/
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 # legal:
