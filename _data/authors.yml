@@ -84,7 +84,7 @@ author2:
   picture:           https://placehold.it/128x128
   twitter:           <username>
   github:            <username>
-  accent_color:      '#268bd2'
+  accent_color:      '#122735'
   accent_image:
-    background:      '#202020'
+    background:      '#0c0e0c'
     overlay:         false
