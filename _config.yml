@@ -40,7 +40,7 @@ logo:                  /assets/icons/me.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                Diego libiot
+  name:                Diego 
   email:               
   # Used by `jekyll-seo-tag`:
   # twitter:             alex-kah
@@ -60,8 +60,7 @@ menu:
 #     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             Diego libiot
-
+copyright:             Diego 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
 
@@ -142,7 +141,7 @@ defaults:
 
 hydejack:
   # Configure the order of complementary content on blog posts
-  post_addons:         [about, newsletter, related, random]
+  post_addons:         [ newsletter, related, random]
 
   # Configure the order of complementary content on project pages
   project_addons:      [about, newsletter, other]
