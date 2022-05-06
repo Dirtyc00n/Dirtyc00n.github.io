@@ -8,11 +8,9 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    En esta web podra ver algunos de mis proyectos relacionados con desarrollo android,
-    desarrollo web y hacking ofensivo. tambien contara con la sección noticias donde publicare 
-    las noticias mas conotadas de la semana relacionadas con hacking y en la seccion 
-    Hurgar encontrara investigaciones, testeos, tips, recopilaciones y mucho mas.
-
+    En esta web podra ver algunos de mis proyectos relacionados con desarrollo Android, desarrollo web y hacking
+    ofensivo. también contara con la sección noticias donde publicare las noticias más connotadas de la semana relacionadas con hacking
+    y en la sección Hurgar encontrara investigaciones, testeos, tips, recopilaciones y mucho más.
     
 
     <p align="center"> 
