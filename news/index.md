@@ -1,3 +1,3 @@
-*Principales noticias de la semana 
+# Principales noticias de la semana 
 
-**Noticia 1 
+## Noticia 1 
