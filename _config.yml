@@ -363,3 +363,6 @@ compress_html:
 
 sass:
   style:               compressed
+links:
+  - title: Project Link
+    url: https://dirtyc00n.github.io/news/newsposts/index.md
