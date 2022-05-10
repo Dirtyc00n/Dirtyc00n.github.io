@@ -48,7 +48,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Proyectos
-    url:               /project/
+    url:               /projects/
   - title:             Noticias
     url:               /news/
   - title:             Hurgar
@@ -230,9 +230,19 @@ collections:
     output:            true
 
   projects:
-    permalink:         /project/:path/
+    permalink:         /projects/:path/
     output:            true
     
+  collections:
+  projects:
+    permalink:         /news/newsposts/:path/
+    output:            true
+    
+  collections:
+  projects:
+    permalink:         /rummage/:path/
+    output:            true
+     
 
  
 
