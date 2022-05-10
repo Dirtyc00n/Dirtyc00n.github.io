@@ -232,14 +232,7 @@ collections:
     permalink:         /project/:path/
     output:            true
     
-  projects:
-    permalink:         /news/:path/
-    output:            true
- 
-   projects:
-    permalink:         /news/newpost/:path/
-    output:            true
- 
+
  
 
 
