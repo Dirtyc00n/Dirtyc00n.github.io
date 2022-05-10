@@ -8,4 +8,4 @@
   <time class="heading faded fine" datetime=""></time>
 </li>--> 
 
-<p align="center"><img src="https://dirtyc00n.github.io/assets/img/"></p>
+<p align="center"><img src="https://dirtyc00n.github.io/assets/img/malware-ciberataques.jpg"></p>
