@@ -5,7 +5,7 @@
 
 <li>
   <a href="https://dirtyc00n.github.io/news/newpost.md" class="h4 flip-title"><span>prueba</span></a>
-  <time class="heading faded fine" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date:format }}</time>
+  <time class="heading faded fine" datetime=""></time>
 </li> 
 
 <p align="center"><img src="https://dirtyc00n.github.io/assets/img/"></p>
