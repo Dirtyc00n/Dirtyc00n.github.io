@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: list
 title:  Principales noticias de la semana 
 ---
 
