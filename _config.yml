@@ -64,7 +64,8 @@ menu:
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             Diego 
 # Format of the permalinks
-permalink:             /:categories/:year-:month-:day-:title/
+permalink:             none
+# /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
@@ -169,7 +170,7 @@ hydejack:
 
   # Set to `true` if you don't intend on changing the accent color on a per-page basis.
   # This will increase site build speed!
-  no_page_style:       false
+  no_page_style:       true
 
   # Code blocks and tables "break" the layout by spanning the full available width.
   # Set this to true if you want them to be the same width as other content.
