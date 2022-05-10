@@ -48,7 +48,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Proyectos
-    url:               /projects/
+    url:               /project/
   - title:             Noticias
     url:               /news/
   - title:             Hurgar
