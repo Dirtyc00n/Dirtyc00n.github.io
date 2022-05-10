@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Home
+title: Nuevo malware sin archivos oculta shellcode en los registros de eventos de Windows
 description: >
-  Just a website for a nerd that likes data.
+  Nuevo malware sin archivos oculta shellcode en los registros de eventos de Windows.
 cover: true
 ---
 
