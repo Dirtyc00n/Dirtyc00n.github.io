@@ -1,11 +1,3 @@
----
-layout: post
-title: Nuevo malware sin archivos oculta shellcode en los registros de eventos de Windows
-description: >
-  Nuevo malware sin archivos oculta shellcode en los registros de eventos de Windows.
-cover: true
----
-
 # Nuevo malware sin archivos oculta shellcode en los registros de eventos de Windows
 
 ### Se detectó una nueva campaña maliciosa que se aprovecha de los registros de eventos de Windows para ocultar fragmentos de shellcode por primera vez en la naturaleza.
