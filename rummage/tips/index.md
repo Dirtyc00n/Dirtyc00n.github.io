@@ -2,6 +2,8 @@
 
 ## De audio a texto podemos usar oTranscribe
 
+### https://github.com/oTranscribe/oTranscribe
+
 ## oTranscribe es una aplicación gratuita y de código abierto que se ejecuta en tu navegador.
 
 ### Has clic en el botón azul Iniciar Transcripción en la página principal.
