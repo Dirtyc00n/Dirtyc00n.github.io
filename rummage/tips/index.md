@@ -2,7 +2,7 @@
 
 ## De audio a texto podemos usar oTranscribe
 
-### https://github.com/oTranscribe/oTranscribe
+### <a href="https://github.com/oTranscribe/oTranscribe" title="ir" style="color:blue">Github oTranscribe</a>
 
 ## oTranscribe es una aplicación gratuita y de código abierto que se ejecuta en tu navegador.
 
@@ -22,6 +22,6 @@
 
 ## De texto a audio podemos usar audiobookmaker
 
-### https://github.com/deadmantfa/audiobookmaker
+### <a href="https://github.com/deadmantfa/audiobookmaker" title="ir" style="color:blue">Github audiobookmaker</a>
 
 
