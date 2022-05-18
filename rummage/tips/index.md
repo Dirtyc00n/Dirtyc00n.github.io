@@ -2,9 +2,9 @@
 layout: posts
 title:  Cómo trascribir audio a texto y texto a audio gratuitamente.
 ---
-#De audio a texto podemos usar oTranscribe
+# De audio a texto podemos usar oTranscribe
 
-##oTranscribe es una aplicación gratuita y de código abierto que se ejecuta en tu navegador.
+## oTranscribe es una aplicación gratuita y de código abierto que se ejecuta en tu navegador.
 
 ###Has clic en el botón azul Iniciar Transcripción en la página principal.
 
