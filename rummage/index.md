@@ -11,4 +11,4 @@ title:  Investigaciones, testeos, tips, recopilaciones y mas
   <time class="heading faded fine" datetime=""></time>
 </li>--> 
 
-<p align="center"><img src="https://dirtyc00n.github.io/assets/img/texto-a-voz-overlay.png"></
+<p align="center"><img src="https://dirtyc00n.github.io/assets/img/texto-a-voz-overlay.png"></p>
