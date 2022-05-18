@@ -15,6 +15,11 @@
 ### El procesador de textos es donde escribe el texto transcrito. Negrita y cursiva son las dos opciones de formato disponibles.
 
 ### Comienza a escribir y controla la velocidad de reproducción con el control deslizante en la parte superior o las teclas F3 y F4.
+
 <p align="center"><img src="https://dirtyc00n.github.io/assets/img/texto-a-voz-overlay.png"></p>
+
+## De texto a audio podemos usar audiobookmaker
+
+### https://github.com/deadmantfa/audiobookmaker
 
 
