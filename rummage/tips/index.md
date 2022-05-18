@@ -1,6 +1,6 @@
 ---
 layout: list
-title:  Investigaciones, testeos, tips, recopilaciones y mas
+title:  Investigaciones, testeos, tips, recopilaciones y mas.
 ---
 
 <!-- ## <span style="color:black">Nuevo malware sin archivos oculta shellcode en los registros de eventos de Windows</span> -->
