@@ -4,7 +4,8 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://Racc00nSpirit.github.io
+url:                   https://www.Racc00nSpirit.github.io
+
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -365,6 +366,6 @@ sass:
   style:               compressed
 links:
   - title: Project Link
-    url: https://dirtyc00n.github.io/news/newsposts/index.md
+    url: https://Racc00nSpirit.github.io/news/newsposts/index.md
     title: Project Link
-    url: https://dirtyc00n.github.io/rummage/index.md
+    url: https://Racc00nSpirit.github.io/rummage/index.md
