@@ -18,7 +18,7 @@
 
 ### Comienza a escribir y controla la velocidad de reproducción con el control deslizante en la parte superior o las teclas F3 y F4.
 
-<p align="center"><img src="https://dirtyc00n.github.io/assets/img/texto-a-voz-overlay.png"></p>
+<p align="center"><img src="https://Rac00nSP.github.io/assets/img/texto-a-voz-overlay.png"></p>
 
 ## De texto a audio podemos usar audiobookmaker
 
