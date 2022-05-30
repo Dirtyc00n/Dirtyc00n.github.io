@@ -8,11 +8,11 @@
 
 ### También es notable el uso de envoltorios antidetección como parte del conjunto de herramientas, lo que sugiere un intento por parte de los operadores de volar por debajo del radar.
 
-<p align="center"><img src="https://dirtyc00n.github.io/assets/img/registro_malware_shellcode.jpg"></p>
+<p align="center"><img src="https://Rac00nSP.github.io/assets/img/registro_malware_shellcode.jpg"></p>
 
 ### Uno de los métodos clave es mantener el shellcode encriptado que contiene el malware de próxima etapa como piezas de 8 KB en los registros de eventos, una técnica nunca antes vista en los ataques del mundo real, que luego se combina y ejecuta.
 
-<p align="center"><img src="https://dirtyc00n.github.io/assets/img/tecnicas_antideteccion_shellcode.jpg"></p>
+<p align="center"><img src="https://Rac00nSP.github.io/assets/img/tecnicas_antideteccion_shellcode.jpg"></p>
 
 ### La carga útil final es un conjunto de troyanos que emplean dos mecanismos de comunicación diferentes: HTTP con cifrado RC4 y sin cifrar con canalizaciones con nombre, que le permiten ejecutar comandos arbitrarios, descargar archivos desde una URL, escalar privilegios y tomar capturas de pantalla.
 
