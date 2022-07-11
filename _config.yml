@@ -238,6 +238,11 @@ collections:
   projects:
     permalink:         /news/newsposts/:path/
     output:            true
+  
+    collections:
+  projects:
+    permalink:         /news/chipset/:path/
+    output:            true
     
   collections:
   projects:
