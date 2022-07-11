@@ -241,7 +241,7 @@ collections:
   
     collections:
   projects:
-    permalink:         /news/chipset/:path/
+    permalink:         /news/:path/:path/
     output:            true
     
   collections:
